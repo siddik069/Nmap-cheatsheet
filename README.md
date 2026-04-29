@@ -52,8 +52,8 @@ No installation needed. Just open the file in any browser:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/siddik069/Nmap-cheatsheet.git
+cd Nmap-cheatsheet 
 
 # Open in browser
 open nmap-reference.html        # macOS
